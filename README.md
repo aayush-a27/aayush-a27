@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aayush Bhadula 👋
 
-<!--
-**aayush-a27/aayush-a27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack MERN Developer
 
-Here are some ideas to get you started:
+I'm a **Full-Stack Web Developer** and B.Tech student who enjoys building modern, scalable, and user-focused web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 What I Do
+- Build full-stack web applications using the **MERN stack**
+- Develop responsive and professional frontend interfaces
+- Design REST APIs and backend services
+- Work with databases, authentication, payments, and third-party APIs
+- Deploy and maintain applications in production
+
+### 🛠️ What I Know
+
+- **Languages:** JavaScript, Python
+- **Frontend:** HTML, CSS, React.js, Tailwind CSS, Redux Toolkit, React Query
+- **Backend:** Node.js, Express.js, FastAPI, REST APIs, JWT Authentication
+- **Databases:** SQL, MongoDB, Redis
+- **Tools:** Git, GitHub, Postman, Axios
+- **AI Tools:** Cursor, Antigravity, Claude Code, OpenAI Codex, Nemotron, Groq, Lovable, Rocket
+
+### 📬 Let's Connect
+Have a project, opportunity, or just want to talk tech?
+
+**Feel free to reach out through GitHub or connect with me on LinkedIn.**
