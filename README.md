@@ -4,7 +4,7 @@
 
 I'm a **Full-Stack Web Developer** and B.Tech student who enjoys building modern, scalable, and user-focused web applications.
 
-### My Portfolio : https://portfolio-website-tau-five-17.vercel.app/
+### My Portfolio : aayushbhadula.pages.dev
 
 ### 👨‍💻 What I Do
 - Build full-stack web applications using the **MERN stack**
